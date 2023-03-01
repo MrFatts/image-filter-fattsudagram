@@ -49,4 +49,7 @@ Add your own domain name and have it point to the running services (try adding a
 # image-filter-fattsudagram
 
 ### created EB Environment link to the image filter
-http://image-filter-fattsudagram-dev-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/800/cpsprodpb/bdc1/live/12dd4560-aeb8-11ed-8768-87bf3515435c.jpg
+[Github Link to EB Image filter Project](http://image-filter-fattsudagram-dev-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/800/cpsprodpb/bdc1/live/12dd4560-aeb8-11ed-8768-87bf3515435c.jpg)
+
+### Git Repo Link to the project
+[Git Repo ](https://github.com/MrFatts/image-filter-fattsudagram.git)
